@@ -1,39 +1,34 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# 
-
+# Home page for protfolio 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
-</header>
-Introduction
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Introduction
 
+This repository serves as a combination of a portfolio, blog, and journal for my electrical engineering endeavors. Here, you'll find projects related to Artificial Intelligence, Machine Learning, and hardware programming, reflecting my interests in these areas.
 
-This will be a part journal part portfolio part blog kind of thing for me. i understand an intro is in order im basically an electrical electronics major i like ai ml and hardware programing so most of my git would have projects related to either one or both of them
-i was advised to start this as both a portfolio and also as a way to keep myself motivated to complete my projects and stuff.
+This space is also a way for me to stay motivated and document my progress as I learn and complete projects.
 
-Skill set: (primarily just c and python )
-Languages i know : high level: c 
-                               c++
-                               python
-                               embbedded c
-                   graphing/more research related languages: r (wpouldnt say im skilled just yet mainly use to understand concepts related to machine learning and visualise them)
-                   low level languages: verilog
-                                        assembly
+## Skillset
 
-still figuring all github out hopefully ill make this page a bit more presentable after i complete this ml yt playlist im doing (2nd all nighter lmao)                                        
+* **Primary Programming Languages:** C, Python
+* **Other Languages:**
+    * High-Level: C++, Embedded C
+    * Research-Oriented: R (Learning for data visualization and ML concepts)
+    * Low-Level: Verilog, Assembly
 
-</footer>
+## Projects
+
+This repository will showcase my projects related to:
+
+* Artificial Intelligence
+* Machine Learning
+* Hardware Programming
+
+(Specific project descriptions will be added as projects are developed)
+
+## Follow Along
+
+Stay tuned for project updates and blog posts!
+
+## License
+
+This repository is licensed under the MIT License. See the LICENSE file for details.
