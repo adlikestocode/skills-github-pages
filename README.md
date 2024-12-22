@@ -1,5 +1,5 @@
-# Home page for protfolio 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+# Home page for portfolio 
+
 
 ## Introduction
 
