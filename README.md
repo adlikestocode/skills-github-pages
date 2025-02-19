@@ -1,6 +1,5 @@
 # 💫 About Me:
-Im currently working on ai ml and embbeded systems related projects.<br>Im an electrical electronics major . i need help with learning ai ml devops on microsoft azure, ask me about my projects and ideas 
-
+I'm currently engaged in AI/ML and embedded systems projects. As an Electrical and Electronics major, I'm eager to expand my expertise in AI/ML and DevOps on Microsoft Azure. I'd love to discuss my projects and ideas—feel free to ask me anything!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityavkini) 
